@@ -39,6 +39,7 @@ https://github.com/OKuts/WebDev_courses
 ---
 educational projects
 https://github.com/OKuts/finish
+https://github.com/OKuts/api_privatbank
 
 ###  Education
 ---
