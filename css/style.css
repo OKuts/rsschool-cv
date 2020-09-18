@@ -1,0 +1,53 @@
+body {
+    font-family: sans-serif;
+    background-color: #ccc;
+    line-height: 140%;
+}
+
+.container {
+    max-width: 800px;
+    background-color: rgb(236, 243, 238);
+    margin: 0 auto;
+}
+
+header {
+    display: flex;
+    text-align: center;
+    background-color: rgb(222, 241, 222);
+    padding: 10px;
+}
+
+main {
+    padding: 10px;
+}
+
+.name {
+    flex: 1;
+}
+table {
+    width: 100%;
+}
+td {
+    padding: 10px;
+}
+
+tr:nth-child(odd) {
+    background-color: rgb(222, 241, 222);
+}
+p {
+    margin-left: 15px;
+}
+
+footer {
+    background-color: rgb(222, 241, 222);
+    height: 100px;
+    display: flex;
+    align-items: center;
+}
+
+.blockquote {
+    margin: 0 30px 0 20px;
+    border-left: 2px solid #ccc;
+    padding-left: 5px;
+    font-style: italic;
+}
